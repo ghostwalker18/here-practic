@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Фарфалле",
+                "address": "улица Космонавтов 12, Москва, Россия, 129366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.65273,
+                    55.82083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kogo Fragola",
+                "address": "Суздальская улица 12А, Москва, Россия, 111673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.84666,
+                    55.73805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "кафе \"Каприз\"",
+                "address": "2-я Поселковая улица 2, Омск, Россия, 644050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.30453,
+                    55.02534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PaPaella",
+                "address": "Банковский переулок 1, Москва, Россия, 101000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.63532,
+                    55.7623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Горнолыжный клуб Леонида Тягачева",
+                "address": "Шуколово, Дмитровский район, Россия, 141850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50435,
+                    56.22942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Migliore",
+                "address": "улица Академика Пилюгина 10, Москва, Россия, 117393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.53976,
+                    55.66894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "#СибирьСибирь",
+                "address": "Смоленская улица 8, Москва, Россия, 121099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.58022,
+                    55.74623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ТОЧНО СОЧНО",
+                "address": "улица Кирова 27, Астрахань, Россия, 414000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.03718,
+                    46.3478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Краснодар бистро",
+                "address": "улица Большая Дмитровка 9 стр 1, Москва, Россия, 125009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61426,
+                    55.76136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Грин Кинг Паб & Китчен",
+                "address": "Мытная улица 7 стр 1, Москва, Россия, 119049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61852,
+                    55.72255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бумага",
+                "address": "Варшавское шоссе 9 стр 1Б, Москва, Россия, 117105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62357,
+                    55.70006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Счастье",
+                "address": "Большой Путинковский переулок 5, Москва, Россия, 127006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60782,
+                    55.76703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bon App Cafe",
+                "address": "Никольская улица 25, Москва, Россия, 109012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62487,
+                    55.7592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sito",
+                "address": "Крымская набережная 10, Москва, Россия, 119049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60731,
+                    55.73759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гриль Хофф",
+                "address": "проспект Мира 12 стр 9, Москва, Россия, 129090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6332,
+                    55.77416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Чугунный мост",
+                "address": "Пятницкая улица 6/1 стр 1, Москва, Россия, 115035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62694,
+                    55.74456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Прогресс",
+                "address": "улица Пресненский Вал 38 стр 1, Москва, Россия, 123557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.57041,
+                    55.77136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Рогалик",
+                "address": "Никольская улица 10, Москва, Россия, 109012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62415,
+                    55.75811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moments",
+                "address": "Татарская улица 7 стр 1, Москва, Россия, 115054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.63883,
+                    55.7337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Get Jerry",
+                "address": "Страстной бульвар 4 стр 3, Москва, Россия, 125009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60833,
+                    55.76494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ДЛЯ СВОИХ",
+                "address": "Варшавское шоссе 7 корп 1, Москва, Россия, 117105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62238,
+                    55.70093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8 Oz",
+                "address": "улица Крымский вал 9 стр 21А, Москва, Россия, 119049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.59585,
+                    55.72421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Хмели-сунели",
+                "address": "улица Авиаконструктора Микояна 10, Москва, Россия, 125252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52775,
+                    55.7902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Little Craft Bar",
+                "address": "Садовая-Самотечная улица 15/1, Москва, Россия, 127473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61857,
+                    55.77436
+                ]
+            }
+        }
+    ]
+}
