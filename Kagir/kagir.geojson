@@ -1,0 +1,2021 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Рахат Палас Отель",
+                "address": "Қаныш Сәтбаев көшесі 29/6, 050022 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91658,
+                    43.2374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс \"Семей\"",
+                "address": "Қабанбай батыр көшесі 26, Семей, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26005,
+                    50.41491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Oasis Inn Astana»",
+                "address": "Республика даңғылы 12, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42882,
+                    51.16099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный эко-комплекс «GREEN Which HOTEL»",
+                "address": "Қазақстан Конституциясы көшесі 1, Қызылжар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.12455,
+                    54.87201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха \"VARADERO\"",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Риксос Президент Астана",
+                "address": "Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4283,
+                    51.12771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Rixos Khadisha Shymkent",
+                "address": "Желтоқсан көшесі 17, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5961,
+                    42.32504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «ARK MS»",
+                "address": "улица Аль-Фараби 1, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.34517,
+                    42.88699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Орда»",
+                "address": "Республика даңғылы 43, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57626,
+                    42.30576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Кайер»",
+                "address": "улица Карасай батыра 31, 050010 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97032,
+                    43.24881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Ритц-Карлтон",
+                "address": "Әл-Фараби даңғылы 77/7, 050060 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92954,
+                    43.21932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Мисс Мари",
+                "address": "Рейдовая көшесі 1, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.12343,
+                    49.79766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADMIRAL RESORT",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Хостел Nomads GH",
+                "address": "Мұқағали Мақатаев көшесі 73, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94482,
+                    43.2642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Aisha DeLuxe»",
+                "address": "Ақбозов көшесі 27, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.3896,
+                    42.90939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand Hotel Shakarima",
+                "address": "Шәкәрім Құдайбердіұлы даңғылы 93, Семей, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25979,
+                    50.41928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Амстердам",
+                "address": "Ғазиза Жұбанова көшесі 50, Ақтөбе, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.17915,
+                    50.28604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Дом отдыха «Alakol Family Club»",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База семейного отдыха Atlantis",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель \"Резидент Алматы \"",
+                "address": "Республика алаңы 20, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94451,
+                    43.23914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Гранд Ербил»",
+                "address": "Сауранбаев Тлеуберді көшесі 3, 050011 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94925,
+                    43.33731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "London House Hotel",
+                "address": "Республика алаңы 15, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94259,
+                    43.23895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс \"Отрар\"",
+                "address": "050002, Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95652,
+                    43.26439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница ОСТРОВ",
+                "address": "Республика даңғылы 5, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42864,
+                    51.15911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Марко Поло Аксай»",
+                "address": "микрорайон Аксай-1А 23, 050031 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82529,
+                    43.24172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гранд отель Евразия",
+                "address": "Республика алаңы, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94533,
+                    43.23934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Maqan Almaty",
+                "address": "улица Радлова 17, 050010 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97319,
+                    43.24129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"АЛМА-АТА\"",
+                "address": "Қабанбай батыр көшесі 85, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9442,
+                    43.25054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Терра",
+                "address": "Жандосов көшесі 17, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.30142,
+                    43.23106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Канвас Шымкент»",
+                "address": "Республика даңғылы 43, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57626,
+                    42.30576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Донателло бутик-отель",
+                "address": "Достық даңғылы 535, 050020 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97663,
+                    43.20387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Jasmine»",
+                "address": "улица Ильяса Жансугурова 3, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.35097,
+                    42.8946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Mildom",
+                "address": "Бөгенбай батыр көшесі 128, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94774,
+                    43.25308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница РАМАДА ПЛАЗА АСТАНА",
+                "address": "Республика даңғылы 47, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4239,
+                    51.17623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бизнес-отель АЛТАЙ",
+                "address": "Төле Би көшесі 142, 050026 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9112,
+                    43.25212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Хостел «Амиго — Алматы»",
+                "address": "Манас көшесі 9, 050008 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90711,
+                    43.24217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Well Sleep",
+                "address": "Мұқағали Мақатаев көшесі 126, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93445,
+                    43.26301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Медеу»",
+                "address": "проспект Республики 166, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42193,
+                    51.18478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park |Resort «Восемь Озер»",
+                "address": "041624, Талғар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.13528,
+                    43.4768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Ренессанс Актау",
+                "address": "10-ші шағын аудан & 11-ші шағын аудан, Ақтау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.15235,
+                    43.65241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха АЛАЗИС-БАСТАУ",
+                "address": "Қабанбай, Үржар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.07886,
+                    46.07719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница VOYAGE",
+                "address": "Мид Республики Казахстан, улица Айтеке Би 65, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94397,
+                    43.25883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "InterContinental Almaty Hotel",
+                "address": "Желтоқсан көшесі 181, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93991,
+                    43.23595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Kausar»",
+                "address": "Төле Би көшесі 142, 050026 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9112,
+                    43.25212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Chagala Hotel Uralsk»",
+                "address": "Темір Масин көшесі 67/1, Орал, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.38027,
+                    51.21145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mини-гостиница «Тифлисъ»",
+                "address": "Акан Серы, Ақан Сері көшесі 80, 050011 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94735,
+                    43.32161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс Alakol Resort",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Жумбактас",
+                "address": "улица Карасакал Еримбета 65, 010001 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.41732,
+                    51.13695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Горный отель «Рейкьявик»",
+                "address": "Заречная көшесі, Талғар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.18554,
+                    43.28446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Байтерек",
+                "address": "улица Сарайшык 38, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4366,
+                    51.13198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Пушкин»",
+                "address": "Достық көшесі 60, Орал, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.44874,
+                    51.26199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха Алмас Бриллиант",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Senator»",
+                "address": "Республика даңғылы 4, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.15049,
+                    49.77795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sapar Deluxe",
+                "address": "Инженерная көшесі 15, 050051 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95923,
+                    43.23533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Аль-Фараби»",
+                "address": "улица Исатая Тайманова 222, 050059 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96133,
+                    43.21237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Уют»",
+                "address": "Байзақ батыр көшесі 249, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.37125,
+                    42.86844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Комфорт отель Астана",
+                "address": "улица Космонавтов 60, 010001 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42543,
+                    51.14664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Гранд Парк Есиль",
+                "address": "Бейбітшілік көшесі 8, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4219,
+                    51.16704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Арт Отель Астана",
+                "address": "Желтоқсан көшесі 42, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.41323,
+                    51.17919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель \"Д`Рами \"",
+                "address": "Абылай хан даңғылы 123, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94199,
+                    43.24832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Тау-House",
+                "address": "Алматы облысы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3734,
+                    45.01284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Альтаир Отель",
+                "address": "Пролетарская көшесі 22, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5713,
+                    42.32202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Diplomat Deluxe Hotel and Business Resort»",
+                "address": "Республика даңғылы 1, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42884,
+                    51.1575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand Hotel Tien-Shan",
+                "address": "Бөгенбай батыр көшесі 115, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94949,
+                    43.25367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caspian Riviera Grand Palace",
+                "address": "улица Микрорайон 4, Кигинский район, Россия, 452500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.60245,
+                    55.40744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Селена Стар",
+                "address": "Бегім Ана көшесі 30, Қызылорда, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.49957,
+                    44.85146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"Турист\"",
+                "address": "проспект Республики 33, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42549,
+                    51.16922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ertish Hotel",
+                "address": "улица Абикена Бектурова, 140300 Баянауыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.70426,
+                    50.79179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand “AiSer” Hotel",
+                "address": "Сатпаева (ул. Байтурсынова), Ахмет Байтұрсынов көшесі 106, 050022 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92857,
+                    43.23758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиный двор ГАЛИРАД",
+                "address": "Республика көшесі 14, Өскемен, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.65166,
+                    49.92333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха «Алаколь-Айгерим»",
+                "address": "Қабанбай, Үржар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.07886,
+                    46.07719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный  комплекс  «Костанай турист»",
+                "address": "улица Ахмета Байтурсынова 72, Қостанай, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.63504,
+                    53.21681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Усть-Каменогорск»",
+                "address": "Қабанбай батыр көшесі 158, Өскемен, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.62648,
+                    49.95454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Сары Арка»",
+                "address": "Республика даңғылы 16, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57883,
+                    42.31421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Высокогорный курорт «Ак булак»",
+                "address": "Рысқұлов, Талғар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.28152,
+                    43.30125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Ренессанс Атырау",
+                "address": "Imangali Mosque, улица Казахстан 15, Атырау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.94318,
+                    47.0935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Торгай",
+                "address": "Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4283,
+                    51.12771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Арай Плаза»",
+                "address": "улица Толе Би 93, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.34581,
+                    42.89993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Хостел Алма Синема",
+                "address": "Кармысов көшесі 72, 050010 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95989,
+                    43.24787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс \"Чайка\"",
+                "address": "Иван Мичурин көшесі 11, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.07115,
+                    49.8072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Шера Парк Инн",
+                "address": "Республика алаңы 15, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94259,
+                    43.23895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Бинар-СЕМЕЙ",
+                "address": "улица Ленина 6, Майминский район, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.90213,
+                    52.00545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"ДОСТЫК\"",
+                "address": "Құрманғазы көшесі 36, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95116,
+                    43.24461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостинично-ресторанный комплекс «Алтын Адам»",
+                "address": "Сүтюшев көшесі 58, Қызылжар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.13093,
+                    54.86637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Самал",
+                "address": "Республика даңғылы 15, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42779,
+                    51.16226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Холидэй Инн Алматы»",
+                "address": "Республика алаңы 2, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94553,
+                    43.23781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Red Village Hotel Astana",
+                "address": "микрорайон 1 2/3, 010010 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4612,
+                    51.15171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Тахар",
+                "address": "Абылай хан даңғылы 27/1, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93883,
+                    43.26912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бутик-отель \"Орбита\"",
+                "address": "Республика даңғылы 27, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57751,
+                    42.30913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golden Palace Hotel",
+                "address": "Ахмет Байтұрсынов көшесі 54, 050012 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92662,
+                    43.24832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Скиф",
+                "address": "Парковая көшесі 118, Қызылжар ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.13247,
+                    54.86243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостинично-ресторанный комплекс «Бестау»",
+                "address": "Дружба Народов көшесі 6/7A, Бөрлі ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.02654,
+                    51.15847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Кайнар",
+                "address": "Республика даңғылы 46, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57411,
+                    42.30416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Rixos Almaty",
+                "address": "Сәкен Сейфуллин даңғылы 506, 050012 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93443,
+                    43.2496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Парк Отель Кокшетау»",
+                "address": "Щучинск, Бурабай ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.21262,
+                    52.94166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Казжол Алматы»",
+                "address": "улица Балкантау 213, 010010 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.47331,
+                    51.13635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Санаторий Алматы",
+                "address": "Алматы Шипажайы 1, Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87154,
+                    43.17603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Тенгри",
+                "address": "Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4283,
+                    51.12771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Жамбыл",
+                "address": "улица Толе Би 42, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.373,
+                    42.90154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «G Empire»",
+                "address": "Республика даңғылы 63, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42162,
+                    51.18389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс МЕТЕЛИЦА",
+                "address": "проспект Бухар-Жырау 56, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.08807,
+                    49.80327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Достык»",
+                "address": "Республика даңғылы 17, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57922,
+                    42.31314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Орда»",
+                "address": "Жамбыл даңғылы 139, Жамбыл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.36032,
+                    42.89848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Five Seasons",
+                "address": "Марков көшесі 46, 050040 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93351,
+                    43.22799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ар Нуво",
+                "address": "Республика даңғылы 4, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.15049,
+                    49.77795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель  “NomAD”",
+                "address": "Ибраев көшесі 149, Семей, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2497,
+                    50.40856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park hotel Uralsk",
+                "address": "Самал көшесі 3, Орал, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.43355,
+                    51.26435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха \"Africana\"",
+                "address": "Қазақстан көшесі 56, Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.62089,
+                    45.73954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Беркана »",
+                "address": "Әйтеке Би көшесі 83, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93701,
+                    43.2581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиничный комплекс «Alateniz»",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Inn OZZ»",
+                "address": "Республика даңғылы 4, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.15049,
+                    49.77795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Золотой Дракон",
+                "address": "Сәкен Сейфуллин даңғылы 402, 050000 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93151,
+                    43.26849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Курмет»",
+                "address": "Сүндетқали Есқалиев көшесі 205, Орал, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3661,
+                    51.20763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Шымкент",
+                "address": "Республика көшесі 6, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.61036,
+                    42.32014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Sky Luxe",
+                "address": "улица Достык 12, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42573,
+                    51.12616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"Казахстан\"",
+                "address": "Республика алаңы 2, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94553,
+                    43.23781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бизнес-отель «Алматы»",
+                "address": "Райымбек даңғылы 298, 050009 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87693,
+                    43.25735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Сапар Стандарт",
+                "address": "Республика даңғылы 17, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.57922,
+                    42.31314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Талани",
+                "address": "Ақсай-4 шағын ауданы 90, 050063 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84275,
+                    43.22897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бутик-отель Променад",
+                "address": "улица Бейбитшилик 4, Шымкент, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.55633,
+                    42.34382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «La Casa»",
+                "address": "проспект Азаттык 140, Атырау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.89912,
+                    47.08169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель King Hotel Astana",
+                "address": "Республика даңғылы 7, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42832,
+                    51.16025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "База отдыха «Алаколь Асар»",
+                "address": "Алакөл, Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.29298,
+                    46.35194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Курортный отель «Samal Resort & SPA»",
+                "address": "улица Горная, Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.99778,
+                    43.21821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ресторанно-гостиничный комплекс Ак Самал",
+                "address": "улица Университетская 36, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.12192,
+                    49.77495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"Ак Ниет\"",
+                "address": "Республика көшесі 3, 111700 Бейімбет Майлин ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.53222,
+                    52.83479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бутик-отель VOYAGE",
+                "address": "Республика даңғылы 10, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.14842,
+                    49.7782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AQUAMARINE resort",
+                "address": "Алакөл ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.94383,
+                    46.16701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Достар-Алем",
+                "address": "Республика даңғылы, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.14104,
+                    49.7855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Уют",
+                "address": "улица Сыганак 18/1, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.43136,
+                    51.12132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница Космонавт",
+                "address": "Кривогуз көшесі 162, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.06445,
+                    49.79511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dastan Hotel Aktobe",
+                "address": "Бөкенбай батыр көшесі, Ақтөбе, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.2016,
+                    50.26032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бизнес Отель Астра",
+                "address": "Желтоқсан көшесі 12, 050016 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93776,
+                    43.27199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель «Мукаммаль»",
+                "address": "Жеңіс даңғылы 53/1, 010000 Нұр-Сұлтан, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.40846,
+                    51.1805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Мини-отель Теремъ»",
+                "address": "Коммуна көшесі 75, Қарағанды, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.07344,
+                    49.9151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «River Palace»",
+                "address": "улица Айтеке Би 57, Атырау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.91695,
+                    47.10907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Уют»",
+                "address": "улица Сакена Сейфуллина 127, 050024 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89423,
+                    43.32497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Chagala Aksai»",
+                "address": "Дружба Народов көшесі 2/2, Бөрлі ауданы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.03348,
+                    51.16146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Шагала»",
+                "address": "микрорайон 1, Ақтау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.18139,
+                    43.63292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atakent Park Hotel",
+                "address": "Климент Тимирязев көшесі 42, Текелі, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.73683,
+                    44.86653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница \"Илек\"",
+                "address": "Әйтеке Би көшесі 44, Ақтөбе, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.2243,
+                    50.28353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Гостиница «Victoria Palace»",
+                "address": "Қазақстан көшесі 17, Атырау, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.9439,
+                    47.09288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Бутик-отель Grushevy Hospitality",
+                "address": "Зверев көшесі 33, 050010 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96268,
+                    43.25034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Отель Royal Tulip",
+                "address": "Республика алаңы 2, 050013 Алматы, Қазақстан"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94553,
+                    43.23781
+                ]
+            }
+        }
+    ]
+}
