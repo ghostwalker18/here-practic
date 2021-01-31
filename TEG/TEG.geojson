@@ -1,0 +1,995 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Okaidi",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zara",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Top Shop",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaguar",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blue Bar",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mia Coffee",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Women'secret",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tezenis",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yldon Exchange",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ama Coffee",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gelosia",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rossman & Lala",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beauty & The City",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Swarovksi",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intesa San Paolo",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 9AM-4:30PM  SATURDAY TO SUNDAY DAY OFF"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carpisa",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cortefiel",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flormar",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il Cammino",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pull & Bear",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Swatch",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Massimo Dutti",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jumbo",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calcedonia",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "World Flex",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aqua Marine",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KFC",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mango",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polo",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pascucci",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geox",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yves Rocher",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neptun",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Altinbas",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLO",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Springfield",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pandora",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Top Optik",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LTB",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LC Waikiki",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Markolino",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sport Vision",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Veranda",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "Monday -- Sunday 10:00-22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Facto",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loft",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotaria kombÃ«tare",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vodafone",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bershka",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Office Shoes",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Coffee Ballkoni",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIS Boutique",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cacharel",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andrea Bossi",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lavazhi",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Top Play",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yamamay",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bottega Verde",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parfois",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lauma",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Segafredo",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Damat",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ital Optik",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intersport",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Original Marines",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stradivarius",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prenatal",
+                "address": "Rruga Nacionale, 1032, Vorë, Shqipëria",
+                "working_hours": "MONDAY TO FRIDAY 10:00 – 22:00\nSATURDAY TO SUNDAY 9:00 - 22:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66275,
+                    41.39624
+                ]
+            }
+        }
+    ]
+}
